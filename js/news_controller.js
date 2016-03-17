@@ -6,7 +6,7 @@ rappiApp.controller('accordionCtrl', function ($scope, $http) {
   $scope.oneAtATime = true;
 
   //get json data
-  $http.get('news_mock.json').success(function(data) {
+  $http.get('js/news_mock.json').success(function(data) {
 	$scope.allnews = data;
   }); 
 

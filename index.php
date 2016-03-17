@@ -22,7 +22,7 @@
     <link href='https://fonts.googleapis.com/css?family=Exo+2:600,800' rel='stylesheet' type='text/css'>
 
     <!-- news controller -->
-    <script src="news_controller.js"></script>
+    <script src="js/news_controller.js"></script>
 
 
 </head>
